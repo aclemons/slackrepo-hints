@@ -1,2 +1,1 @@
-ADDREQUIRES="python3"
 OPTIONS='PYTHON3=yes'
