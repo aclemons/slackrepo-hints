@@ -1,2 +1,1 @@
 OPTIONS="ENABLE_UEFI=true"
-ADDREQUIRES="pygobject3-python3 python3-pillow py3cairo"
