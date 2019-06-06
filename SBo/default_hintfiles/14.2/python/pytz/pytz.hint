@@ -1,1 +1,2 @@
-PRAGMA="python3"
+OPTIONS="PYTHON3=yes"
+ADDREQUIRES="python3"
