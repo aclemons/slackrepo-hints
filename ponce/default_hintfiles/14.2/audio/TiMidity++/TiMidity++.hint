@@ -1,2 +1,2 @@
-ADDREQUIRES="jack-audio-connection-kit speex"
+ADDREQUIRES="jack speex"
 OPTIONS="JACK=yes SPEEX=yes"

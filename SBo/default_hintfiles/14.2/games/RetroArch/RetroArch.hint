@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg jack-audio-connection-kit libxkbcommon python3 SDL2"
+ADDREQUIRES="ffmpeg jack libxkbcommon python3 SDL2"
