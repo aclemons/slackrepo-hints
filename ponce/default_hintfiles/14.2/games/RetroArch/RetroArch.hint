@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg jack libxkbcommon SDL2"
+ADDREQUIRES="ffmpeg jack"
