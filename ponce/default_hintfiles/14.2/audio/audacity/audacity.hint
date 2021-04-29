@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg jack lame lilv soundtouch"
+ADDREQUIRES="ffmpeg jack lilv soundtouch"

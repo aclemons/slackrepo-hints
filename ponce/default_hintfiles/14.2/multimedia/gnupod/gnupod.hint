@@ -1,1 +1,1 @@
-ADDREQUIRES="faac ffmpeg lame TiMidity++ perl-Audio-FLAC-Header perl-Date-Manip perl-Ogg-Vorbis-Header-PurePerl"
+ADDREQUIRES="faac ffmpeg TiMidity++ perl-Audio-FLAC-Header perl-Date-Manip perl-Ogg-Vorbis-Header-PurePerl"

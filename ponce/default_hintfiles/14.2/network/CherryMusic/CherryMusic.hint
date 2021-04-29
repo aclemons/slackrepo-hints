@@ -1,1 +1,1 @@
-ADDREQUIRES="lame faad2 Unidecode pyOpenSSL"
+ADDREQUIRES="faad2 Unidecode pyOpenSSL"
