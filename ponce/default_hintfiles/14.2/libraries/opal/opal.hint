@@ -1,1 +1,1 @@
-ADDREQUIRES="speex ffmpeg celt"
+ADDREQUIRES="speex celt"

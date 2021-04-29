@@ -1,2 +1,2 @@
-ADDREQUIRES="libshout libmms libmpdclient musepack-tools faac faad2 ffmpeg jack zziplib id3lib libmp4v2 opus mod_dnssd yajl"
+ADDREQUIRES="libshout libmms libmpdclient musepack-tools faac faad2 jack zziplib id3lib libmp4v2 opus mod_dnssd yajl"
 OPTIONS="ISO9660=yes SOUNDCLOUD=yes RECORDEROUTPUT=yes ZZIPLIB=yes ID3=yes FLAC=yes SQLITE=yes"

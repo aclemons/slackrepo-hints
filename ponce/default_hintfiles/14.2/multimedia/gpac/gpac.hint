@@ -1,1 +1,1 @@
-ADDREQUIRES="wxPython faad2 ffmpeg xvidcore jack"
+ADDREQUIRES="wxPython faad2 xvidcore jack"

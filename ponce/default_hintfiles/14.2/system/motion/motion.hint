@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg postgresql"
+ADDREQUIRES="postgresql"

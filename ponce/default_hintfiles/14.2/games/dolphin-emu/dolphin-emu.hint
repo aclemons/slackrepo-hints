@@ -1,1 +1,1 @@
-ADDREQUIRES="SFML portaudio soil miniupnpc soundtouch ffmpeg wxGTK3"
+ADDREQUIRES="SFML portaudio soil miniupnpc soundtouch wxGTK3"

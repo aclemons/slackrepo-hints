@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg jack"
+ADDREQUIRES="jack"

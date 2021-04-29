@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg gst-python"
+ADDREQUIRES="gst-python"

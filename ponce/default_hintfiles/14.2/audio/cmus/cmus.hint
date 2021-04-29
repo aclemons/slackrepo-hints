@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg faad2 libcue libmp4v2 opusfile"
+ADDREQUIRES="faad2 libcue libmp4v2 opusfile"

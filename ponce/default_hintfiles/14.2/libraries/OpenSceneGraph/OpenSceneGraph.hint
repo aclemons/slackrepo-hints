@@ -1,1 +1,1 @@
-ADDREQUIRES="ffmpeg gdal gtkglext"
+ADDREQUIRES="gdal gtkglext"
