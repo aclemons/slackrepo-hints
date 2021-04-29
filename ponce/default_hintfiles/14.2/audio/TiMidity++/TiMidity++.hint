@@ -1,2 +1,2 @@
-ADDREQUIRES="jack speex"
+ADDREQUIRES="jack"
 OPTIONS="JACK=yes SPEEX=yes"

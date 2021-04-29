@@ -1,1 +1,1 @@
-ADDREQUIRES="speex celt"
+ADDREQUIRES="celt"

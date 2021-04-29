@@ -1,1 +1,1 @@
-ADDREQUIRES="speex gst-plugins-ugly"
+ADDREQUIRES="gst-plugins-ugly"
