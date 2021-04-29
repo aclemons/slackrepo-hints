@@ -1,1 +1,1 @@
-ADDREQUIRES="GraphicsMagick libwebp flickcurl colord colord-gtk osm-gps-map"
+ADDREQUIRES="GraphicsMagick flickcurl colord colord-gtk osm-gps-map"

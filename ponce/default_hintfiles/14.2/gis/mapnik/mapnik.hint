@@ -1,1 +1,1 @@
-ADDREQUIRES="gdal libwebp librasterlite postgis proj"
+ADDREQUIRES="gdal librasterlite postgis proj"
