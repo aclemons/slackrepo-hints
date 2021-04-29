@@ -1,1 +1,1 @@
-ADDREQUIRES="dcraw ffmpegthumbnailer"
+ADDREQUIRES="dcraw"
