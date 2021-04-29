@@ -1,1 +1,1 @@
-ADDREQUIRES="audit numactl libunwind"
+ADDREQUIRES="audit numactl"
