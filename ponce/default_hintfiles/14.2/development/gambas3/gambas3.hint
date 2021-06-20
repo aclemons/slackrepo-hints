@@ -1,1 +1,1 @@
-ADDREQUIRES="alure gtkglext imlib2 unixODBC sqlite2 postgresql"
+ADDREQUIRES="alure gtkglext imlib2 unixODBC postgresql"
