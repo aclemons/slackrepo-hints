@@ -1,2 +1,2 @@
-ADDREQUIRES="cfitsio freexl hdf5 netcdf xerces-c postgresql"
+ADDREQUIRES="freexl hdf5 netcdf xerces-c postgresql"
 PRAGMA="unset_DISTCC_HOSTS"
