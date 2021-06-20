@@ -1,1 +1,1 @@
-ADDREQUIRES="libcec libnfs libdvdcss lirc cwiid pybluez rtmpdump afpfs-ng libmicrohttpd avahi SDL2 cryptopp jsoncpp"
+ADDREQUIRES="libcec libnfs libdvdcss lirc cwiid pybluez rtmpdump afpfs-ng libmicrohttpd avahi cryptopp jsoncpp"
