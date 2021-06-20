@@ -1,2 +1,1 @@
-DELREQUIRES="python-dateutil"
 ADDREQUIRES="python3-dateutil"
