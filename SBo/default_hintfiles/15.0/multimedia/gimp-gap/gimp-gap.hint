@@ -1,0 +1,1 @@
+ADDREQUIRES="faac faad2 x264 xvidcore"

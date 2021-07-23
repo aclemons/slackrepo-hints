@@ -1,0 +1,1 @@
+ADDREQUIRES="GraphicsMagick flickcurl colord colord-gtk osm-gps-map"

@@ -1,0 +1,1 @@
+ADDREQUIRES="libmms jack libmodplug faad2 libbs2b"

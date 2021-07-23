@@ -1,0 +1,2 @@
+ADDREQUIRES="mjpegtools ladspa_sdk libunicap libdv schroedinger libavc1394"
+NUMJOBS="-j1"

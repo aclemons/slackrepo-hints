@@ -1,0 +1,2 @@
+GROUPADD="303:colord"
+USERADD="303:colord:-d/var/lib/colord:-s/bin/false"

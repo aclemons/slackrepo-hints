@@ -1,0 +1,1 @@
+ADDREQUIRES="python-ldap libvirt pyOpenSSL CherryPy pymongo python-keyring MySQL-python redis-py python-gnupg"

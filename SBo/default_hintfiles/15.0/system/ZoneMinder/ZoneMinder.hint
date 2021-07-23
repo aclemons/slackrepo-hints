@@ -1,0 +1,2 @@
+ADDREQUIRES="perl-Archive-Zip perl-Device-SerialPort perl-MIME-Lite"
+NUMJOBS="-j1"
