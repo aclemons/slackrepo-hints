@@ -1,1 +1,1 @@
-ADDREQUIRES="webkitgtk3"
+ADDREQUIRES="webkit2gtk"
