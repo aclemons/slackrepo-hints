@@ -1,0 +1,2 @@
+ADDREQUIRES="qwt"
+OPTIONS="GRAPH=yes"
