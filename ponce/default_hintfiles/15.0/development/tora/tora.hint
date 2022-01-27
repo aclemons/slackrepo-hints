@@ -1,1 +1,1 @@
-ADDREQUIRES="libqsqlpsql"
+ADDREQUIRES="qt5-postgresql"
