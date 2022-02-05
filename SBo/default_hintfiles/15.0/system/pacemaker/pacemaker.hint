@@ -1,0 +1,2 @@
+GROUPADD="226:haclient"
+USERADD="226:hacluster:-d/:-s/bin/false:-ghaclient"
