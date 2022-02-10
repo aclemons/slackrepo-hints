@@ -1,0 +1,2 @@
+GROUPADD="356:sogo"
+USERADD="356:sogo:-d/var/lib/sogo:-s/bin/bash:-gsogo"
