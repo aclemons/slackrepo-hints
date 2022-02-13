@@ -1,0 +1,2 @@
+GROUPADD="267:asterisk"
+USERADD="267:asterisk:-d/var/lib/asterisk:-s/bin/false:-gasterisk"
