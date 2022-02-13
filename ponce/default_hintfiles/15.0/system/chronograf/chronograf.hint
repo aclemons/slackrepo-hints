@@ -1,0 +1,2 @@
+GROUPADD="350:chronograf"
+USERADD="350:chronograf:-d/var/lib/chronograf:-s/bin/false:-gchronograf"
