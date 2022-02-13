@@ -1,0 +1,2 @@
+GROUPADD="360:ircd"
+USERADD="360:ircd:-d/var/empty:-s/bin/false:-gircd"
