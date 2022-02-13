@@ -1,0 +1,2 @@
+GROUPADD="351:kapacitor"
+USERADD="351:kapacitor:-d/var/lib/kapacitor:-s/bin/false:-gkapacitor"
