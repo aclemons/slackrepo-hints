@@ -1,2 +1,2 @@
 GROUPADD="368:prometheus"
-USERADD="368:promtheus:-d/var/lib/prometheus:-s/bin/false:-gprometheus"
+USERADD="368:prometheus:-d/var/lib/prometheus:-s/bin/false:-gprometheus"

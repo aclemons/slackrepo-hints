@@ -1,2 +1,2 @@
 GROUPADD="226:haclient"
-USERADD="252:hacluser:-d/:-s/bin/false:-ghaclient"
+USERADD="226:hacluster:-d/:-s/bin/false:-ghaclient"
