@@ -1,1 +1,1 @@
-ADDREQUIRES="rtmpdump pycrypto python-librtmp futures singledispatch"
+ADDREQUIRES="rtmpdump python2-pycrypto python-librtmp futures singledispatch"
