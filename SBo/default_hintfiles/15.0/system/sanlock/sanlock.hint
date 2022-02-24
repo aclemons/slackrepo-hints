@@ -1,0 +1,2 @@
+GROUPADD="363:sanlock"
+USERADD="363:sanlock:-d/var/run/sanlock:-s/bin/false:-gsanlock"
