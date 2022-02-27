@@ -1,0 +1,2 @@
+GROUPADD="366:turnserver"
+USERADD="366:turnserver:-d/var/lib/turn:-s/bin/bash:-gturnserver"
