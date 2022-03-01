@@ -1,2 +1,2 @@
-ADDREQUIRES="zulu-openjdk"
+ADDREQUIRES="zulu-openjdk8"
 OPTIONS="JAVA=yes"
