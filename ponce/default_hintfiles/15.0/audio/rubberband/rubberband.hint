@@ -1,0 +1,2 @@
+ADDREQUIRES="zulu-openjdk"
+OPTIONS="JAVA=yes"
