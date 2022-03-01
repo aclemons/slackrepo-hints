@@ -1,2 +1,2 @@
-ADDREQUIRES="amd camd colamd ccolamd cholmod umfpack cxsparse glpk arpack-ng qrupdate qhull hdf5 fltk ftgl gl2ps jdk GraphicsMagick"
+ADDREQUIRES="amd camd colamd ccolamd cholmod umfpack cxsparse glpk arpack-ng qrupdate qhull hdf5 fltk ftgl gl2ps zulu-openjdk8 GraphicsMagick"
 OPTIONS="WITH_MAGICK=GraphicsMagick"
