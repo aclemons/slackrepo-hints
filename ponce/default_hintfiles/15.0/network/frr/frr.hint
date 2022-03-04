@@ -1,0 +1,2 @@
+GROUPADD="357:frr 358:frrvty"
+USERADD="357:frr:-d/var/run/frr:-s/bin/false:-Gfrrvty:-gfrr"
