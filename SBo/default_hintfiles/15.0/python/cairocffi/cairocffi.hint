@@ -1,1 +1,1 @@
-ADDREQUIRES="python2-xcffib"
+ADDREQUIRES="python3-xcffib"
