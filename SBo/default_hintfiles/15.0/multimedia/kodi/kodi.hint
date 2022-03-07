@@ -1,1 +1,1 @@
-ADDREQUIRES="libcec libnfs libdvdcss lirc cwiid python2-pybluez rtmpdump afpfs-ng libmicrohttpd avahi jsoncpp"
+ADDREQUIRES="avahi cwiid dav1d libcec libmicrohttpd libnfs lirc shairplay"
