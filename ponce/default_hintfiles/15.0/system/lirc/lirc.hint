@@ -1,1 +1,1 @@
-PRAGMA="kernel unset_ARCH"
+PRAGMA="unset_ARCH"
