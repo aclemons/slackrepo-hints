@@ -1,1 +1,1 @@
-PRAGMA="kernelmodule unset_ARCH"
+PRAGMA="need_net kernelmodule unset_ARCH"
