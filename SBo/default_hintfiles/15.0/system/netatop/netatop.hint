@@ -1,1 +1,1 @@
-PRAGMA="kernelmodule unset_ARCH"
+PRAGMA="kernelmodule unset_ARCH kernelversion"
