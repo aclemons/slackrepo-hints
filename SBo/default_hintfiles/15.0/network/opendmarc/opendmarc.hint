@@ -1,0 +1,2 @@
+GROUPADD="362:opendmarc"
+USERADD="362:opendmarc:-d/var/run/opendmarc:-s/bin/false:-gopendmarc"
