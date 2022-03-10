@@ -1,0 +1,1 @@
+ADDREQUIRES="TiMidity++ aom amrnb amrwb celt chromaprint faac faad2 flite gsm ladspa_sdk libass libcdaudio libdc1394 libdca libfdk-aac libkate liblrdf libmimic libmodplug libmusicbrainz libofa libquicktime libsrtp lv2 musepack-tools rtmpdump schroedinger srt soundtouch swfdec xvidcore"

@@ -1,1 +1,0 @@
-ADDREQUIRES="amrnb amrwb libass libcdaudio celt libdc1394 libdca faac faad2 flite gsm libkate liblrdf libmodplug libmimic libmusicbrainz libofa libquicktime lv2 musepack-tools soundtouch swfdec xvidcore rtmpdump schroedinger TiMidity++ xvidcore"
