@@ -1,1 +1,2 @@
 ADDREQUIRES="audit numactl"
+PRAGMA="kernelmodule unset_ARCH"
