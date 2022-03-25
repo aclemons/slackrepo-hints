@@ -1,0 +1,2 @@
+GROUPADD="354:chrony"
+USERADD="354:chrony:-d/var/lib/chrony:-s/bin/false:-gchrony"
