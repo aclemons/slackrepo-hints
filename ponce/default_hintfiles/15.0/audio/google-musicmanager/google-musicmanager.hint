@@ -1,1 +1,3 @@
-MD5SUM="no"
+if [ "${ARCH:-$(uname -m)}" !=  "x86_64" ] ; then
+VERSION="1.0.243.1116"
+fi
