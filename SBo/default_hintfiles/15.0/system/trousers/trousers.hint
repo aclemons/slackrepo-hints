@@ -1,0 +1,2 @@
+GROUPADD="374:tss"
+USERADD="374:tss:-d/home/tss:-s/bin/bash:-gtss:-M"
