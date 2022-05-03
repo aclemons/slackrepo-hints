@@ -1,0 +1,2 @@
+ADDREQUIRES="graphviz"
+OPTIONS="GRAPHVIZ=yes"
