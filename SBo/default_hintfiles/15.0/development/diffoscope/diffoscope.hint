@@ -1,0 +1,1 @@
+ADDREQUIRES="argcomplete colord colordiff fontforge fpc ghc graphviz zulu-openjdk8 mono pdftk sng tlsh"
