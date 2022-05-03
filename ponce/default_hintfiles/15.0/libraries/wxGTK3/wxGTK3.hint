@@ -1,1 +1,2 @@
-ADDREQUIRES="webkit2gtk"
+ADDREQUIRES="webkit2gtk graphviz"
+OPTIONS="APIDOC=yes"
