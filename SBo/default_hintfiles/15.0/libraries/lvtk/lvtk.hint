@@ -1,1 +1,3 @@
 MD5SUM="no"
+OPTIONS="DOCS=yes"
+ADDREQUIRES="graphviz"
