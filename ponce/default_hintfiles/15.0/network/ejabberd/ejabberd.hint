@@ -1,4 +1,3 @@
 GROUPADD="370:ejabberd"
 USERADD="370:ejabberd:-s/sbin/nologin:-d/var/lib/ejabberd:-g370"
-ADDREQUIRES="postgresql"
 OPTIONS="ODBC=yes MYSQL=yes PGSQL=yes SQLITE=yes PAM=yes REDIS=yes ELIXIR=yes SIP=yes LUA=yes TOOLS=yes"
