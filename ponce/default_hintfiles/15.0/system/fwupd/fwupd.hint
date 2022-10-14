@@ -1,1 +1,1 @@
-OPTIONS="ENABLE_UEFI=true"
+PRAGMA="need_net"
