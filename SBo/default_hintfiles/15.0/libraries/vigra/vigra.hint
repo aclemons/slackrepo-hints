@@ -1,1 +1,1 @@
-ADDREQUIRES="nose numpy Sphinx"
+ADDREQUIRES="nose python2-numpy Sphinx"

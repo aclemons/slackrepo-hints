@@ -1,1 +1,1 @@
-ADDREQUIRES="numpy"
+ADDREQUIRES="python2-numpy"

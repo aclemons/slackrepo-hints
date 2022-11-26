@@ -1,1 +1,1 @@
-ADDREQUIRES="python2-matplotlib numpy"
+ADDREQUIRES="python2-matplotlib python2-numpy"

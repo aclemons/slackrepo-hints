@@ -1,2 +1,2 @@
 OPTIONS="BINDINGS=yes"
-ADDREQUIRES="numpy"
+ADDREQUIRES="python2-numpy"

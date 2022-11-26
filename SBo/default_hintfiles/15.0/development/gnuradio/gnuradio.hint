@@ -1,1 +1,1 @@
-ADDREQUIRES="uhd cppunit lxml numpy qwt wxPython"
+ADDREQUIRES="uhd cppunit lxml python2-numpy qwt wxPython"
