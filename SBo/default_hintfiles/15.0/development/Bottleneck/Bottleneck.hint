@@ -1,1 +1,1 @@
-ADDREQUIRES="scipy tox virtualenv"
+ADDREQUIRES="python2-scipy tox virtualenv"

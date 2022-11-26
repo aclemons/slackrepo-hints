@@ -1,1 +1,1 @@
-ADDREQUIRES="ipython rope matplotlib numpy pyflakes pylint Sphinx scipy"
+ADDREQUIRES="ipython rope matplotlib numpy pyflakes pylint Sphinx python2-scipy"
