@@ -1,1 +1,1 @@
-PRAGMA="x86arch=i686 need_net"
+PRAGMA="x86arch=i686"
