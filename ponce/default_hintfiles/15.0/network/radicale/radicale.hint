@@ -1,0 +1,2 @@
+GROUPADD="375:radicale"
+USERADD="375:radicale:-d/var/lib/radicale:-s/bin/false:-gradicale"
