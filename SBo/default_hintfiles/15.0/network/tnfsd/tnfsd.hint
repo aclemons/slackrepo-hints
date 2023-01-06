@@ -1,0 +1,2 @@
+GROUPADD="375:tnfsd 376:tnfs-files"
+USERADD="375:tnfsd:-d/var/tnfs:-s/bin/false:-M"
