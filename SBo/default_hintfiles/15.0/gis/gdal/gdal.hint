@@ -1,3 +1,3 @@
-ADDREQUIRES="freexl hdf hdf5 netcdf xerces-c postgresql SFCGAL libheif zulu-openjdk8 apache-ant"
+ADDREQUIRES="freexl hdf hdf5 libkml netcdf postgresql xerces-c SFCGAL libheif zulu-openjdk8 apache-ant"
 PRAGMA="unset_DISTCC_HOSTS"
 OPTIONS="JAVA=yes"
