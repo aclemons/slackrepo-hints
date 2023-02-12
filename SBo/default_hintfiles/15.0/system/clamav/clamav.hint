@@ -1,2 +1,3 @@
 GROUPADD="210:clamav"
 USERADD="210:clamav"
+PRAGMA="x86arch=i686"
