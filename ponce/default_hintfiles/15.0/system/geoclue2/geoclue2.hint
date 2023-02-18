@@ -1,0 +1,2 @@
+OPTIONS="AVAHI=yes"
+ADDREQUIRES="avahi"
