@@ -1,1 +1,1 @@
-ADDREQUIRES="python-dbus-next"
+ADDREQUIRES="python3-dbus-next"
