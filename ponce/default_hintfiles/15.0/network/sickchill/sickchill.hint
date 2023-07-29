@@ -1,0 +1,2 @@
+GROUPADD="377:sickchill"
+USERADD="377:sickchill:-d/var/lib/sickchill:-s/bin/false"
