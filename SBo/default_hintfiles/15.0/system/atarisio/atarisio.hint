@@ -1,0 +1,2 @@
+PRAGMA="kernelmodule unset_ARCH"
+OPTIONS="KERNEL=yes"
