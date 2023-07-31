@@ -1,2 +1,2 @@
 PRAGMA="abstar need_net"
-OPTIONS="TEST=yes PDFDOC=yes OPTIONALSPKG=\"database_gap sage-mode\""
+OPTIONS="PDFDOC=yes OPTIONALSPKG=\"database_gap sage-mode\""
