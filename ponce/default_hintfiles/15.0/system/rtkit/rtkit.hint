@@ -1,0 +1,2 @@
+USERADD="378:rtkit:-s/bin/false:-d/var/lib/rtkit"
+GROUPADD="378:rtkit"
