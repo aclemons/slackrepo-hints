@@ -1,0 +1,2 @@
+USERADD="212:ntopng:-d/var/lib/ntopng"
+GROUPADD="212:ntopng"
