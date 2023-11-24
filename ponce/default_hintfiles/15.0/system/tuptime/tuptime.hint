@@ -1,0 +1,2 @@
+USERADD="379:_tuptime:-d/var/lib/_tuptime"
+GROUPADD="379:_tuptime"
