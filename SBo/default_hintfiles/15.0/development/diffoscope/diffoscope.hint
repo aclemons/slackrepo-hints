@@ -1,1 +1,1 @@
-ADDREQUIRES="argcomplete colord colordiff fontforge fpc ghc graphviz zulu-openjdk8 mono pdftk sng tlsh"
+ADDREQUIRES="python3-argcomplete colord colordiff fontforge fpc ghc graphviz zulu-openjdk8 mono pdftk sng tlsh"
