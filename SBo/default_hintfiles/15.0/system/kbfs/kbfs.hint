@@ -1,3 +1,0 @@
-PRAGMA="need_net"
-GROUPADD="352:keybasehelper"
-USERADD="352:keybasehelper:-s/bin/false:-gkeybasehelper"
