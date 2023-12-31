@@ -1,0 +1,2 @@
+GROUPADD="293:dnscrypt"
+USERADD="293:dnscrypt:-d/dev/null:-s/bin/false:-gdnscrypt"
