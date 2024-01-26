@@ -1,0 +1,2 @@
+GROUPADD="352:keybasehelper"
+USERADD="352:keybasehelper:-s/bin/false"

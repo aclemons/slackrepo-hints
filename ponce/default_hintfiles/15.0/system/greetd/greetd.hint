@@ -1,0 +1,2 @@
+GROUPADD="381:greeter"
+USERADD="381:greeter:-d/var/lib/greeter:-s/bin/false"
