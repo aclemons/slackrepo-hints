@@ -1,0 +1,2 @@
+GROUPADD="383:smokeping"
+USERADD="383:smokeping:-d/var/lib/smokeping:-s/bin/false"
