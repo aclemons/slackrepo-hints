@@ -1,2 +1,3 @@
 GROUPADD="228:zabbix"
 USERADD="228:zabbix:-d/dev/null:-s/bin/false"
+USERADD="266:zabbixagent:-d/dev/null:-s/bin/false"
