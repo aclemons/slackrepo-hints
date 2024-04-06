@@ -1,1 +1,1 @@
-ADDREQUIRES="Flask pyacoustid pylast discogs-client"
+ADDREQUIRES="Flask gst-python pyacoustid pylast"
