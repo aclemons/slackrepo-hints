@@ -1,1 +1,1 @@
-ADDREQUIRES="Kivy pygame"
+ADDREQUIRES="Kivy python3-pygame"
