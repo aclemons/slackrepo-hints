@@ -1,1 +1,2 @@
 ADDREQUIRES="hwloc"
+OPTIONS="PYTHON=yes"
