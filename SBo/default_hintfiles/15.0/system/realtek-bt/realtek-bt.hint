@@ -1,1 +1,1 @@
-PRAGMA="download_urldecode download_basename"
+PRAGMA="download_urldecode download_basename kernelmodule unset_ARCH"
