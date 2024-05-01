@@ -1,1 +1,2 @@
 PRAGMA="need_net"
+OPTIONS="WITH_SUID=no"
