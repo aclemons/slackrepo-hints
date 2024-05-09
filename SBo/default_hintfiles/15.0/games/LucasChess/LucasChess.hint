@@ -1,0 +1,2 @@
+GROUPADD="385:lucaschess"
+USERADD="385:lucaschess:-s/sbin/nologin:-g385"
