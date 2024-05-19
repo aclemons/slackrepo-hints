@@ -1,2 +1,2 @@
 OPTIONS="BINDINGS=yes"
-ADDREQUIRES="python2-numpy"
+ADDREQUIRES="python-sphinx-lv2-theme"
