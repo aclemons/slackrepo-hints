@@ -1,1 +1,1 @@
-ADDREQUIRES="numexpr Bottleneck"
+ADDREQUIRES="numexpr"
