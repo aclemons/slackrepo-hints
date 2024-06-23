@@ -1,2 +1,1 @@
-PRAGMA="kernelmodule unset_ARCH"
-OPTIONS="KERNEL=yes"
+PRAGMA="unset_KERNEL"
