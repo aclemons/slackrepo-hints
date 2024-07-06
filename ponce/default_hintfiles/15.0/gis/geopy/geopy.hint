@@ -1,0 +1,1 @@
+ADDREQUIRES="pytz python3-aiohttp"
