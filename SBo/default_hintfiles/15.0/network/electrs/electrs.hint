@@ -1,2 +1,3 @@
 GROUPADD="386:electrs"
 USERADD="386:electrs:-d/var/run/electrs:-s/bin/false"
+PRAGMA="need_net"
