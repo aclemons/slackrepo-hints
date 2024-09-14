@@ -1,0 +1,2 @@
+GROUPADD="387:grafana"
+USERADD="387:grafana:-d/dev/null:-s/bin/false:-ggrafana"
