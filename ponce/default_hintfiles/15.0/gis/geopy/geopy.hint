@@ -1,1 +1,1 @@
-ADDREQUIRES="pytz python3-aiohttp"
+ADDREQUIRES="python3-pytz python3-aiohttp"
