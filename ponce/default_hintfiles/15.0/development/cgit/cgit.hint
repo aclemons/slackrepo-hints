@@ -1,0 +1,1 @@
+ADDREQUIRES="lua luacrypto lua-md5"
