@@ -1,0 +1,2 @@
+ADDREQUIRES="lua"
+OPTIONS="USELUA=yes"
