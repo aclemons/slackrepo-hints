@@ -1,1 +1,1 @@
-ADDREQUIRES="aften amrnb jack nv-codec-headers x265"
+ADDREQUIRES="aften amrnb jack x265"
