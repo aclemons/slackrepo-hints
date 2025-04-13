@@ -1,0 +1,2 @@
+GROUPADD="380:lightdm"
+USERADD="380:lightdm:-d/var/lib/lightdm:-s/bin/false:-glightdm"
