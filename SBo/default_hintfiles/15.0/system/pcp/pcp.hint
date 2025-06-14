@@ -1,0 +1,2 @@
+GROUPADD="377:pcp"
+USERADD="377:pcp:-d/var/lib/pcp:-s/bin/false:-gpcp"
