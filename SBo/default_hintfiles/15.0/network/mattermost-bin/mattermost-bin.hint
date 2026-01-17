@@ -1,0 +1,2 @@
+GROUPADD="394:mattermost"
+USERADD="394:mattermost:-d/opt/mattermost:-s/bin/false:-gmattermost"
