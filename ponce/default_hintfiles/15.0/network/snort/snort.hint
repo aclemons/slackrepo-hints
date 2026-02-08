@@ -1,0 +1,2 @@
+GROUPADD="395:snort"
+USERADD="395:snort:-d/var/log/snort:-s/bin/false:-gsnort"
