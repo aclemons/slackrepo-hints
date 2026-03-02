@@ -1,0 +1,2 @@
+GROUPADD="382:ocserv"
+USERADD="382:ocserv:-s/sbin/nologin:-gocserv"
