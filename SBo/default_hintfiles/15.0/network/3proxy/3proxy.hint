@@ -1,0 +1,2 @@
+GROUPADD="396:proxy"
+USERADD="396:proxy:-s/sbin/nologin:-gproxy"
