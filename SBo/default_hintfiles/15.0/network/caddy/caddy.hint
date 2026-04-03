@@ -1,0 +1,2 @@
+GROUPADD="398:caddy"
+USERADD="398:caddy:-s/sbin/false:-gcaddy"
