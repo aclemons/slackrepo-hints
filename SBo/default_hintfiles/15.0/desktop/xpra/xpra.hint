@@ -1,0 +1,2 @@
+GROUPADD="400:xpra"
+USERADD="400:grafana:-gxpra"
