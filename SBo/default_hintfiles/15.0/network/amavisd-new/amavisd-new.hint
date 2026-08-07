@@ -1,3 +1,2 @@
-ADDREQUIRES=""
 GROUPADD="225:amavis"
 USERADD="225:amavis:-d/var/lib/amavis:-s/bin/bash"
