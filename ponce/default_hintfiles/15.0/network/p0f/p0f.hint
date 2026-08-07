@@ -1,0 +1,2 @@
+GROUPADD="401:p0f"
+USERADD="401:p0f:-d/var/empty/p0f:-s/bin/nologin:-gp0f"
