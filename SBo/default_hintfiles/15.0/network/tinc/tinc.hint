@@ -1,0 +1,2 @@
+GROUPADD="403:tinc"
+USERADD="403:tinc:-s/bin/false:-gtinc"
