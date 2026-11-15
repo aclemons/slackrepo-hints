@@ -1,2 +1,2 @@
-ADDREQUIRES="blas lapack netcdf postgresql libLAS"
-OPTIONS="ENABLE=gmath,netcdf,postgresql,mysql,sqlite,liblas"
+ADDREQUIRES="blas lapack netcdf postgresql18 libLAS"
+OPTIONS="ENABLE=gmath,netcdf,postgresql18,mysql,sqlite,liblas"
